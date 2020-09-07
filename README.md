@@ -1,4 +1,4 @@
-# awesome-loopring
+# Awesome Loopring
 A curated list of awesome things built on Loopring.
 
 > Note these libraries have not been audited by Loopring.

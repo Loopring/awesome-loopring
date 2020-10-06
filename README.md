@@ -1,31 +1,37 @@
 # Awesome Loopring
 A curated list of awesome resources related to Loopring.
 
+
 ## Contents
--  [Learn Loopring](#learn-loopring)   
--  [Relayer](#relayer)
+- [Learn Loopring](#learn-loopring)
+- [Loopring.io](#Loopring.io (Loopring Exchange))
+- [Relayer](#relayer)
 
 
-### Learn Loopring
-[5-minute Overview](https://medium.com/loopring-protocol/loopring-3-0-overview-from-a-to-zksnarks-2c542e6c07b0)
-[Technical Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
+### Learn Loopring Protocol
+- [Technical Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
+- [5-minute Overview](https://medium.com/loopring-protocol/loopring-3-0-overview-from-a-to-zksnarks-2c542e6c07b0)
+- [v3.6 Code Complete](https://medium.com/loopring-protocol/loopring-3-6-is-code-complete-and-security-audit-has-begun-68a642506e31)
+- [v3.6 Features and Challenges](https://medium.com/loopring-protocol/loopring-protocol-3-6-features-and-challenges-edcon-presentation-673c6f9e9dd6)
+- [v3.6 Bug Bounty](https://medium.com/loopring-protocol/loopring-3-6-bug-bounty-a4843343910b)
+- [Layer 2 account keys](https://medium.com/loopring-protocol/looprings-new-approach-to-generating-layer-2-account-keys-4a16cc334906)
 
 
-### Loopring Protocol v3.6
-[v3.6 Code Complete](https://medium.com/loopring-protocol/loopring-3-6-is-code-complete-and-security-audit-has-begun-68a642506e31)
-[v3.6 Features and Challenges, EDCON presentation](https://medium.com/loopring-protocol/loopring-protocol-3-6-features-and-challenges-edcon-presentation-673c6f9e9dd6)
-[v3.6 Bug Bounty](https://medium.com/loopring-protocol/loopring-3-6-bug-bounty-a4843343910b)
+### Miscellaneous Articles
+- [We take the ultimate non-custodial test](https://medium.com/loopring-protocol/we-take-the-ultimate-non-custodial-test-b5528fafbec2)
+- [zkRollup and Layer 1 composability](https://medium.com/loopring-protocol/composability-between-ethereum-layer-1-and-2-10650b7411e5)
 
 
 ### Loopring.io (Loopring Exchange)
-[Loopring Exchange](https://loopring.io/)
-[API](https://docs.loopring.io/en/)
-[FAQ](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
-[Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
-[Video Tutorial](https://youtu.be/hqzGvwsIBtg)
+- [Loopring Exchange](https://loopring.io/)
+- [API](https://docs.loopring.io/en/)
+- [FAQ](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
+- [Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
+- [Video Tutorial](https://youtu.be/hqzGvwsIBtg)
+- [Referral Program](https://medium.com/loopring-protocol/loopring-exchange-launches-referral-program-c61777f072d1)
 
-### Products, UIs
-- [Loopring Exchange](https://loopring.io) - full suite orderbook exchange and payment app
+
+### Other Products, UIs
 - [Swap UI](https://swap.loopring.io) - for simple, gas-free swaps
 - [Rails](https://rails.eth.link) - for gas-free transfers (product by DXdao)
 
@@ -42,10 +48,10 @@ A curated list of awesome resources related to Loopring.
 
 
 ### Liquidity Provision
-[Introducing Liquidity Mining](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
-[Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
-[Update on Liquidity Mining](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
-[Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
+- [Introducing Liquidity Mining](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
+- [Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
+- [Update on Liquidity Mining](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
+- [Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
 
 
 ### Trading Bot Software
@@ -58,6 +64,7 @@ A curated list of awesome resources related to Loopring.
 - [LRC token Contract](https://etherscan.io/address/lrctoken.eth)
 - [LRC Utility post](https://medium.com/loopring-protocol/loopring-3-0-lrc-utility-model-d7da9ac79d3d)
 - [LRC Staking & Claiming app](https://staking.loopring.org/)
+- [LRC Staking & Claiming manual instructions](https://medium.com/loopring-protocol/lrc-staking-and-claiming-instructions-91fd80e1af98)
 - [LRC Staking Pool](https://etherscan.io/address/stakingpool.lrctoken.eth)
 - [Protocol Fee Vault](https://etherscan.io/address/feevault.lrctoken.eth)
 - [Loopring.io Deposit Contract](https://etherscan.io/address/loopringio.eth)
@@ -69,10 +76,11 @@ A curated list of awesome resources related to Loopring.
 
 
 ### Videos
-Loopring v3.6: https://youtu.be/6nZypCa4wgI
-General Video Interview, Matt on POV Crypto: https://youtu.be/YzRB4_pBV9c
-Technical Video Interview, Brecht on Hidden Gems: https://youtu.be/edZPUeoCFCk
-Scaling with zkSNARKs @ DeFi Summit London: https://youtu.be/FEf6GC5p8hU
+- [Loopring v3.6, Daniel Wang EDCON](https://youtu.be/6nZypCa4wgI)
+- [Technical workshop, Brecht on how to build an AMM on zkRollup](https://youtu.be/42XXeAiwdlk)
+- [General Interview, Matt on POV Crypto](https://youtu.be/YzRB4_pBV9c)
+- [Technical Interview, Brecht on Hidden Gems](https://youtu.be/edZPUeoCFCk)
+- [Scaling with zkSNARKs @ DeFi Summit London](https://youtu.be/FEf6GC5p8hU)
 
 
 ### Contact and official channels

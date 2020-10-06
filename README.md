@@ -3,7 +3,7 @@ A curated list of awesome resources related to Loopring.
 
 
 ## Contents
-- [Loopring Protocol](#learn-loopring-protocol)
+- [Learn Loopring Protocol](#learn-loopring-protocol)
 - [Loopring.io (Loopring Exchange)](#Loopring.io-(Loopring-Exchange))
 - [Other Products, UIs](#Other-Products,-UIs)
 - [Relayer](#relayer)
@@ -20,10 +20,11 @@ A curated list of awesome resources related to Loopring.
 - [Technical Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 - [5-minute Overview](https://medium.com/loopring-protocol/loopring-3-0-overview-from-a-to-zksnarks-2c542e6c07b0)
 - [v3.6 Code Complete](https://medium.com/loopring-protocol/loopring-3-6-is-code-complete-and-security-audit-has-begun-68a642506e31)
+- [v3.6 Technical Workshop on zkRollup AMMs](https://youtu.be/42XXeAiwdlk)
 - [v3.6 Features and Challenges](https://medium.com/loopring-protocol/loopring-protocol-3-6-features-and-challenges-edcon-presentation-673c6f9e9dd6)
 - [v3.6 Bug Bounty](https://medium.com/loopring-protocol/loopring-3-6-bug-bounty-a4843343910b)
 - [ZK Circuit Code](https://medium.com/loopring-protocol/loopring-open-sources-its-zksnark-circuit-code-53c934b67ce5)
-- [Layer 2 account keys](https://medium.com/loopring-protocol/looprings-new-approach-to-generating-layer-2-account-keys-4a16cc334906)
+- [Layer 2 Account Keys Explainer](https://medium.com/loopring-protocol/looprings-new-approach-to-generating-layer-2-account-keys-4a16cc334906)
 
 
 ### Loopring.io (Loopring Exchange)
@@ -49,7 +50,7 @@ A curated list of awesome resources related to Loopring.
 - [zkSNARK Prover Optimizations](https://medium.com/loopring-protocol/zksnark-prover-optimizations-3e9a3e5578c0)
 
 
-### Data Related
+### Rollup Data Related
 - [zkRollup Data Extraction Methods Overview](https://github.com/Loopring/protocols/wiki/Data-Extraction)
 - [Dune Analytics - Loopring](https://duneanalytics.com/loopring)
 - [The Graph - Loopring subgraph](https://thegraph.com/explorer/subgraph/protofire/loopring-3_1)
@@ -62,8 +63,7 @@ A curated list of awesome resources related to Loopring.
 - [Update on Liquidity Mining](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
 - [Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
 
-
-### Trading Bot Software
+#### Trading Bot Software
 - [Hummingbot](https://github.com/Loopring/hummingbot)
 - [vnpy](https://github.com/Loopring/vnpy)
 - [NIOX Maker](https://www.maker.autonio.foundation/) + [instructions on integration](https://medium.com/loopring-protocol/autonio-integrates-loopring-exchange-into-niox-market-making-software-aa6f9197a9f1)
@@ -72,7 +72,7 @@ A curated list of awesome resources related to Loopring.
 ### LRC, Staking, Smart Contracts, etc.
 - [LRC token Contract](https://etherscan.io/address/lrctoken.eth)
 - [LRC Utility post](https://medium.com/loopring-protocol/loopring-3-0-lrc-utility-model-d7da9ac79d3d)
-- [LRC Staking & Claiming app](https://staking.loopring.org/) + [open codebase](https://github.com/Loopring/lrc-staking-dapp)
+- [LRC Staking & Claiming dapp](https://staking.loopring.org/) + [open codebase](https://github.com/Loopring/lrc-staking-dapp)
 - [LRC Staking & Claiming manual instructions](https://medium.com/loopring-protocol/lrc-staking-and-claiming-instructions-91fd80e1af98)
 - [LRC Staking Pool](https://etherscan.io/address/stakingpool.lrctoken.eth)
 - [Protocol Fee Vault](https://etherscan.io/address/feevault.lrctoken.eth)
@@ -93,8 +93,8 @@ A curated list of awesome resources related to Loopring.
 
 
 ### Miscellaneous Articles
-- [The ultimate non-custodial test](https://medium.com/loopring-protocol/we-take-the-ultimate-non-custodial-test-b5528fafbec2)
-- [zkRollup and Layer 1 composability](https://medium.com/loopring-protocol/composability-between-ethereum-layer-1-and-2-10650b7411e5)
+- [The Ultimate Non-Custodial Test](https://medium.com/loopring-protocol/we-take-the-ultimate-non-custodial-test-b5528fafbec2)
+- [zkRollup and Layer 1 Composability](https://medium.com/loopring-protocol/composability-between-ethereum-layer-1-and-2-10650b7411e5)
 
 
 ### Contact and Official Channels

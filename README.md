@@ -64,13 +64,13 @@ A curated list of awesome resources related to Loopring.
 - [Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
 
 #### Trading Bot Software
-- [Hummingbot](https://github.com/Loopring/hummingbot)
+- [Hummingbot](https://github.com/Loopring/hummingbot) (our repo of the connector) + [Hummingbot official](https://docs.hummingbot.io/release-notes/0.32.0/#new-connector-loopring)
 - [vnpy](https://github.com/Loopring/vnpy)
 - [NIOX Maker](https://www.maker.autonio.foundation/) + [instructions on integration](https://medium.com/loopring-protocol/autonio-integrates-loopring-exchange-into-niox-market-making-software-aa6f9197a9f1)
 
 
 ### LRC, Staking, Smart Contracts, etc.
-- [LRC token Contract](https://etherscan.io/address/lrctoken.eth)
+- [LRC Token Contract](https://etherscan.io/address/lrctoken.eth)
 - [LRC Utility post](https://medium.com/loopring-protocol/loopring-3-0-lrc-utility-model-d7da9ac79d3d)
 - [LRC Staking & Claiming dapp](https://staking.loopring.org/) + [open codebase](https://github.com/Loopring/lrc-staking-dapp)
 - [LRC Staking & Claiming manual instructions](https://medium.com/loopring-protocol/lrc-staking-and-claiming-instructions-91fd80e1af98)

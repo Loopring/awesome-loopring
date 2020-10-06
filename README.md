@@ -11,45 +11,47 @@ A curated list of awesome resources related to Loopring.
 [Technical Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 
 
+### Loopring Protocol v3.6
+[v3.6 Code Complete](https://medium.com/loopring-protocol/loopring-3-6-is-code-complete-and-security-audit-has-begun-68a642506e31)
+[v3.6 Features and Challenges, EDCON presentation](https://medium.com/loopring-protocol/loopring-protocol-3-6-features-and-challenges-edcon-presentation-673c6f9e9dd6)
+[v3.6 Bug Bounty](https://medium.com/loopring-protocol/loopring-3-6-bug-bounty-a4843343910b)
+
+
 ### Loopring.io (Loopring Exchange)
 [Loopring Exchange](https://loopring.io/)
-API: https://docs.loopring.io/en/
-FAQ: https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf
-Liquidity Mining: https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100
-Hummingbot: https://github.com/Loopring/hummingbot
-Loopring Pay: https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408
-Video Tutorial https://youtu.be/hqzGvwsIBtg
-
-### Relayer
-
-- [Relayer API](https://docs.loopring.io/en/)
-- [JavaScript library to interact with the Loopring relayer](https://github.com/luzzif/loopring-lightcone)
+[API](https://docs.loopring.io/en/)
+[FAQ](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
+[Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
+[Video Tutorial](https://youtu.be/hqzGvwsIBtg)
 
 ### Products, UIs
-
 - [Loopring Exchange](https://loopring.io) - full suite orderbook exchange and payment app
 - [Swap UI](https://swap.loopring.io) - for simple, gas-free swaps
 - [Rails](https://rails.eth.link) - for gas-free transfers (product by DXdao)
 
-### Smart Contracts
+
+### Relayer
+- [Relayer API](https://docs.loopring.io/en/)
+- [JavaScript library to interact with the Loopring relayer](https://github.com/luzzif/loopring-lightcone)
+
 
 ### Data related
 - [Data Extraction Methods overview](https://github.com/Loopring/protocols/wiki/Data-Extraction)
 - [Dune Analytics](https://duneanalytics.com/loopring)
 - [The Graph subgraph](https://thegraph.com/explorer/subgraph/protofire/loopring-3_1)
 
+
 ### Liquidity Provision
+[Introducing Liquidity Mining](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
+[Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
+[Update on Liquidity Mining](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
+[Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
 
 
-### Trading bot software
+### Trading Bot Software
 - [Hummingbot](https://github.com/Loopring/hummingbot)
 - [vnpy](https://github.com/Loopring/vnpy)
-- [NIOX Maker](https://www.maker.autonio.foundation/)
-
-
-### zkSNARK stuff
-- [ZK Circuit Code](https://medium.com/loopring-protocol/loopring-open-sources-its-zksnark-circuit-code-53c934b67ce5)
-- [zkSNARK Prover Optimizations](https://medium.com/loopring-protocol/zksnark-prover-optimizations-3e9a3e5578c0)
+- [NIOX Maker](https://www.maker.autonio.foundation/) + [instructions on integration](https://medium.com/loopring-protocol/autonio-integrates-loopring-exchange-into-niox-market-making-software-aa6f9197a9f1)
 
 
 ### LRC, staking, smart contracts, and related info
@@ -59,6 +61,11 @@ Video Tutorial https://youtu.be/hqzGvwsIBtg
 - [LRC Staking Pool](https://etherscan.io/address/stakingpool.lrctoken.eth)
 - [Protocol Fee Vault](https://etherscan.io/address/feevault.lrctoken.eth)
 - [Loopring.io Deposit Contract](https://etherscan.io/address/loopringio.eth)
+
+
+### zkSNARK stuff
+- [ZK Circuit Code](https://medium.com/loopring-protocol/loopring-open-sources-its-zksnark-circuit-code-53c934b67ce5)
+- [zkSNARK Prover Optimizations](https://medium.com/loopring-protocol/zksnark-prover-optimizations-3e9a3e5578c0)
 
 
 ### Videos

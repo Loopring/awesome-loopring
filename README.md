@@ -55,6 +55,7 @@ A curated list of awesome resources related to Loopring.
 - [Dune Analytics - Loopring](https://duneanalytics.com/loopring)
 - [The Graph - Loopring subgraph](https://thegraph.com/explorer/subgraph/protofire/loopring-3_1)
 - [Loopring Exchange Data API](https://github.com/Loopring/protocols/wiki/Loopring-Exchange-Data-API)
+- [MetaMask EdDSA Plugin](https://github.com/Loopring/eddsa-metamask-plugin)
 
 
 ### Liquidity Provision Details & Trading Bot Software

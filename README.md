@@ -68,6 +68,7 @@ A curated list of awesome resources related to Loopring.
 - [Hummingbot](https://github.com/Loopring/hummingbot) (our repo of the connector) + [Hummingbot official](https://docs.hummingbot.io/release-notes/0.32.0/#new-connector-loopring)
 - [vnpy](https://github.com/Loopring/vnpy)
 - [NIOX Maker](https://www.maker.autonio.foundation/) + [instructions on integration](https://medium.com/loopring-protocol/autonio-integrates-loopring-exchange-into-niox-market-making-software-aa6f9197a9f1)
+- [MM bot](https://github.com/fxspinnaker/node_v01) (community contributor, fxspinnaker)
 
 
 ### LRC, Staking, Smart Contracts, etc.

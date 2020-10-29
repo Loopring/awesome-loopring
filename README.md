@@ -1,6 +1,9 @@
 # Awesome Loopring
 A curated list of awesome resources related to Loopring.
 
+Everyone is welcome to contribute and add to the list.
+
+Some of the links listed below are third-party services. Please perform your own due diligence before interacting with such things. 
 
 ## Contents
 - [Learn Loopring Protocol](#learn-loopring-protocol)
@@ -35,6 +38,7 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
 - [Video Tutorial](https://youtu.be/hqzGvwsIBtg)
 - [Referral Program](https://medium.com/loopring-protocol/loopring-exchange-launches-referral-program-c61777f072d1)
+- [Supported tokens](https://docs.google.com/spreadsheets/d/1FtmJq84feNjA-kIqwGdQrCJ5HCJjA-9B4EKeV1BHvUs/edit#gid=0)
 
 
 ### Other Products, UIs

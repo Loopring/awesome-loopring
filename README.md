@@ -1,11 +1,15 @@
 # Awesome Loopring
 A curated list of awesome resources related to Loopring.
 
+## Highlights
+- [Loopring Protocol](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
+- [Loopring Wallet]((https://loopring.io)
+- [Loopring Exchange (v2)](https://exchange.loopring.io)
 
 ## Contents
-- [Learn Loopring Protocol](#learn-loopring-protocol)
-- [Loopring.io (Loopring Exchange)](#Loopring.io-(Loopring-Exchange))
-- [Other Products, UIs](#Other-Products,-UIs)
+- [Loopring Protocol](#loopring-protocol)
+- [Loopring Wallet & Loopring Exchange](#Loopring Wallet-&-Loopring Exchange)
+- [Other Products](#Other-Products)
 - [Relayer](#relayer)
 - [Rollup Data Related](#Data-Related)
 - [Liquidity Provision](#Liquidity-Provision)
@@ -16,7 +20,7 @@ A curated list of awesome resources related to Loopring.
 - [Contact and Official Channels](#Contact-and-Official-Channels)
 
 
-### Learn Loopring Protocol
+### Loopring Protocol
 - [Technical Design Doc](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 - [5-minute Overview](https://medium.com/loopring-protocol/loopring-3-0-overview-from-a-to-zksnarks-2c542e6c07b0)
 - [v3.6 Code Complete](https://medium.com/loopring-protocol/loopring-3-6-is-code-complete-and-security-audit-has-begun-68a642506e31)
@@ -27,19 +31,19 @@ A curated list of awesome resources related to Loopring.
 - [Layer 2 Account Keys Explainer](https://medium.com/loopring-protocol/looprings-new-approach-to-generating-layer-2-account-keys-4a16cc334906)
 
 
-### Loopring.io (Loopring Exchange)
-- [Loopring Exchange](https://loopring.io/)
-- [API](https://docs.loopring.io/en/)
-- [FAQ](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
-- [Loopring.io frontend codebase](https://github.com/Loopring/dexwebapp)
+### Loopring Wallet & Loopring Exchange
+- [Loopring Wallet]((https://loopring.io)
+- [Loopring Exchange v2](https://exchange.loopring.io)
+- [Loopring Exchange v1](https://v1.loopring.io/)
+- [API v1](https://docs.loopring.io/en/)
+- [FAQ v1](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
+- [Loopring.io frontend codebase v1](https://github.com/Loopring/dexwebapp)
 - [Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
-- [Video Tutorial](https://youtu.be/hqzGvwsIBtg)
+- [Video Tutorial (for v1)](https://youtu.be/hqzGvwsIBtg)
 - [Referral Program](https://medium.com/loopring-protocol/loopring-exchange-launches-referral-program-c61777f072d1)
 
 
-### Other Products, UIs
-- [Swap UI](https://swap.loopring.io) - for simple, gas-free swaps
-- [Swap UI codebase](https://github.com/Loopring/loopring-swap)
+### Other Products & Related Links
 - [Rails](https://rails.eth.link) - for gas-free transfers (product by DXdao)
 - [Rails codebase](https://github.com/luzzif/rails)
 

@@ -37,8 +37,6 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Exchange v1](https://v1.loopring.io/)
 - [API v1](https://docs.loopring.io/en/)
 - [FAQ v1](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
-- [Loopring.io frontend codebase v1](https://github.com/Loopring/dexwebapp)
-- [Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
 - [Video Tutorial (for v1)](https://youtu.be/hqzGvwsIBtg)
 - [Referral Program](https://medium.com/loopring-protocol/loopring-exchange-launches-referral-program-c61777f072d1)
 
@@ -46,6 +44,7 @@ A curated list of awesome resources related to Loopring.
 ### Other Products & Related Links
 - [Rails](https://rails.eth.link) - for gas-free transfers (product by DXdao)
 - [Rails codebase](https://github.com/luzzif/rails)
+- [v1.loopring.io frontend codebase](https://github.com/Loopring/dexwebapp)
 
 
 ### Relayer
@@ -67,6 +66,7 @@ A curated list of awesome resources related to Loopring.
 - [Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
 - [Update on Liquidity Mining](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
 - [Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
+
 
 #### Trading Bot Software
 - [Hummingbot](https://github.com/Loopring/hummingbot) (our repo of the connector) + [Hummingbot official](https://docs.hummingbot.io/release-notes/0.32.0/#new-connector-loopring)
@@ -101,6 +101,7 @@ A curated list of awesome resources related to Loopring.
 ### Miscellaneous Articles
 - [Loopring Wallet Launch](https://medium.com/loopring-protocol/loopring-wallet-ethereum-unleashed-ac4173f940a5)
 - [Loopring L2 AMM Launch](https://medium.com/loopring-protocol/looprings-zkrollup-amm-is-live-2f8251cd0fcd)
+- [Loopring Pay](https://medium.com/loopring-protocol/loopring-pay-is-live-zkrollup-transfers-on-ethereum-770d35213408)
 - [The Ultimate Non-Custodial Test](https://medium.com/loopring-protocol/we-take-the-ultimate-non-custodial-test-b5528fafbec2)
 - [zkRollup and Layer 1 Composability](https://medium.com/loopring-protocol/composability-between-ethereum-layer-1-and-2-10650b7411e5)
 

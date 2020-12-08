@@ -37,6 +37,7 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Exchange v1](https://v1.loopring.io/)
 - [API v1](https://docs.loopring.io/en/)
 - [FAQ v1](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
+- [Video: Swap & Add Liquidity to AMM](https://youtu.be/u_rzR0APENQ)
 - [Video Tutorial (for v1)](https://youtu.be/hqzGvwsIBtg)
 - [Referral Program](https://medium.com/loopring-protocol/loopring-exchange-launches-referral-program-c61777f072d1)
 

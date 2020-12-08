@@ -8,7 +8,7 @@ A curated list of awesome resources related to Loopring.
 
 ## Contents
 - [Loopring Protocol](#loopring-protocol)
-- [Loopring Wallet & Loopring Exchange](#Loopring Wallet-&-Loopring Exchange)
+- [Loopring Wallet & Loopring Exchange](#Loopring Wallet-Loopring Exchange)
 - [Other Products](#Other-Products)
 - [Relayer](#relayer)
 - [Rollup Data Related](#Data-Related)
@@ -99,6 +99,8 @@ A curated list of awesome resources related to Loopring.
 
 
 ### Miscellaneous Articles
+- [Loopring Wallet Launch](https://medium.com/loopring-protocol/loopring-wallet-ethereum-unleashed-ac4173f940a5)
+- [Loopring L2 AMM Launch](https://medium.com/loopring-protocol/looprings-zkrollup-amm-is-live-2f8251cd0fcd)
 - [The Ultimate Non-Custodial Test](https://medium.com/loopring-protocol/we-take-the-ultimate-non-custodial-test-b5528fafbec2)
 - [zkRollup and Layer 1 Composability](https://medium.com/loopring-protocol/composability-between-ethereum-layer-1-and-2-10650b7411e5)
 

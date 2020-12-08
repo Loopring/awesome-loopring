@@ -32,7 +32,7 @@ A curated list of awesome resources related to Loopring.
 
 
 ### Loopring Wallet and Loopring Exchange
-- [Loopring Wallet]((https://loopring.io)
+- [Loopring Wallet](https://loopring.io)
 - [Loopring Exchange v2](https://exchange.loopring.io)
 - [Loopring Exchange v1](https://v1.loopring.io/)
 - [API v1](https://docs.loopring.io/en/)

@@ -8,7 +8,7 @@ A curated list of awesome resources related to Loopring.
 
 ## Contents
 - [Loopring Protocol](#loopring-protocol)
-- [Loopring Wallet and Loopring Exchange](#Loopring Wallet-and-Loopring Exchange)
+- [Loopring Wallet and Loopring Exchange](#Loopring-Wallet-and-Loopring-Exchange)
 - [Other Products](#Other-Products)
 - [Relayer](#relayer)
 - [Rollup Data Related](#Data-Related)

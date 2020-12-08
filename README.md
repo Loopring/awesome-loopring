@@ -8,7 +8,7 @@ A curated list of awesome resources related to Loopring.
 
 ## Contents
 - [Loopring Protocol](#loopring-protocol)
-- [Loopring Wallet & Loopring Exchange](#Loopring Wallet-Loopring Exchange)
+- [Loopring Wallet and Loopring Exchange](#Loopring Wallet-and-Loopring Exchange)
 - [Other Products](#Other-Products)
 - [Relayer](#relayer)
 - [Rollup Data Related](#Data-Related)
@@ -31,7 +31,7 @@ A curated list of awesome resources related to Loopring.
 - [Layer 2 Account Keys Explainer](https://medium.com/loopring-protocol/looprings-new-approach-to-generating-layer-2-account-keys-4a16cc334906)
 
 
-### Loopring Wallet & Loopring Exchange
+### Loopring Wallet and Loopring Exchange
 - [Loopring Wallet]((https://loopring.io)
 - [Loopring Exchange v2](https://exchange.loopring.io)
 - [Loopring Exchange v1](https://v1.loopring.io/)

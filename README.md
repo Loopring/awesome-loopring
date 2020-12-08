@@ -3,7 +3,7 @@ A curated list of awesome resources related to Loopring.
 
 ## Highlights
 - [Loopring Protocol](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
-- [Loopring Wallet]((https://loopring.io)
+- [Loopring Wallet](https://loopring.io)
 - [Loopring Exchange (v2)](https://exchange.loopring.io)
 
 ## Contents

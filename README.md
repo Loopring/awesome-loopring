@@ -52,7 +52,7 @@ A curated list of awesome resources related to Loopring.
 
 ### Relayer
 - [API](https://docs3.loopring.io/en/)
-- [JavaScript library to interact with the Loopring Relayer](https://github.com/luzzif/loopring-lightcone)
+- [JavaScript library to interact with the Loopring Relayer v1](https://github.com/luzzif/loopring-lightcone)
 - [zkSNARK Prover Optimizations](https://medium.com/loopring-protocol/zksnark-prover-optimizations-3e9a3e5578c0)
 
 
@@ -60,14 +60,15 @@ A curated list of awesome resources related to Loopring.
 - [zkRollup Data Extraction Methods Overview](https://github.com/Loopring/protocols/wiki/Data-Extraction)
 - [Dune Analytics - Loopring](https://duneanalytics.com/loopring)
 - [The Graph - Loopring subgraph](https://thegraph.com/explorer/subgraph/protofire/loopring-3_1)
-- [Loopring Exchange Data API](https://github.com/Loopring/protocols/wiki/Loopring-Exchange-Data-API)
+- [Loopring Exchange Data API v1](https://github.com/Loopring/protocols/wiki/Loopring-Exchange-Data-API)
 - [MetaMask EdDSA Plugin](https://github.com/Loopring/eddsa-metamask-plugin)
 
 
 ### Liquidity Provision Details & Trading Bot Software
-- [Introducing Liquidity Mining](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
-- [Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
-- [Update on Liquidity Mining](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
+- [Liquidity Mining for Exchange v2 (with AMM)](https://medium.com/loopring-protocol/loopring-to-launch-amm-liquidity-mining-on-layer-2-6cabbcf4801c)
+- [Introducing Liquidity Mining (v1)](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
+- [Orderbook Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
+- [Update on Liquidity Mining (v1)](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
 - [Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
 
 

@@ -4,7 +4,8 @@ A curated list of awesome resources related to Loopring.
 ## Highlights
 - [Loopring Protocol](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
 - [Loopring Wallet](https://loopring.io)
-- [Loopring Exchange (v2)](https://exchange.loopring.io)
+- [Loopring Exchange](https://exchange.loopring.io)
+- [Loopring API](https://docs3.loopring.io/en/)
 
 ## Contents
 - [Loopring Protocol](#loopring-protocol)
@@ -34,6 +35,7 @@ A curated list of awesome resources related to Loopring.
 ### Loopring Wallet and Loopring Exchange
 - [Loopring Wallet](https://loopring.io)
 - [Loopring Exchange v2](https://exchange.loopring.io)
+- [Loopring API](https://docs3.loopring.io/en/)
 - [Loopring Exchange v1](https://v1.loopring.io/)
 - [API v1](https://docs.loopring.io/en/)
 - [FAQ v1](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
@@ -49,7 +51,7 @@ A curated list of awesome resources related to Loopring.
 
 
 ### Relayer
-- [Relayer API](https://docs.loopring.io/en/)
+- [API](https://docs3.loopring.io/en/)
 - [JavaScript library to interact with the Loopring Relayer](https://github.com/luzzif/loopring-lightcone)
 - [zkSNARK Prover Optimizations](https://medium.com/loopring-protocol/zksnark-prover-optimizations-3e9a3e5578c0)
 

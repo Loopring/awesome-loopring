@@ -13,13 +13,13 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Protocol](#loopring-protocol)
 - [Loopring Products](#Loopring-products)
 - [Tutorials](#Tutorials)
-- [Rollup Data Related](#Data-Related)
+- [Rollup Data Related](#Rollup-Data-Related)
 - [Liquidity Mining](#Liquidity-Mining)
 - [Trading Bot Software](#Trading-Bot-Software)
 - [LRC](#LRC)
 - [Videos](#Videos)
 - [Miscellaneous Articles](#Miscellaneous-Articles)
-- [Official Channels](#Contact-and-Official-Channels)
+- [Official Channels](#Official-Channels)
 
 
 ### Loopring Protocol
@@ -63,7 +63,7 @@ A curated list of awesome resources related to Loopring.
 - [Liquidity Mining & Listing Request Form](https://loopringexchange.typeform.com/to/T0bgsodw)
 
 
-### Trading Bot Software Connected to Loopring
+### Trading Bot Software
 - [Hummingbot](https://docs.hummingbot.io/exchange-connectors/loopring/) + [our repo of HB connector](https://github.com/Loopring/hummingbot)
 - [vnpy](https://github.com/Loopring/vnpy)
 - [NIOX Maker](https://www.maker.autonio.foundation/) + [Tutorial](https://medium.com/loopring-protocol/autonio-integrates-loopring-exchange-into-niox-market-making-software-aa6f9197a9f1)
@@ -71,7 +71,7 @@ A curated list of awesome resources related to Loopring.
 - [AMM Arbitrage Checker bot](https://raphael.lullis.net/loopringer/)
 
 
-### LRC, Staking, Smart Contracts, etc.
+### LRC
 - [LRC Token Contract](https://etherscan.io/address/lrctoken.eth)
 - [LRC v2 Tokenomics](https://medium.com/loopring-protocol/lrc-tokenomics-v2-1e6fd99e9e9c)
 - [LRC v1 staking deprecation](https://medium.com/loopring-protocol/loopring-to-distribute-all-remaining-v1-staking-rewards-on-l2-8208ea5bdc48)

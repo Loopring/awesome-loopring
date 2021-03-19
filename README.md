@@ -2,7 +2,7 @@
 A curated list of awesome resources related to Loopring.
 
 ## Highlights
-- [Loopring Protocol](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md)
+- [Loopring Protocol](https://loopring.org)
 - [Loopring Wallet](https://loopring.io)
 - [Loopring Exchange](https://exchange.loopring.io)
 - [Loopring API](https://docs3.loopring.io/en/)
@@ -37,7 +37,6 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Exchange v2](https://exchange.loopring.io)
 - [Loopring API](https://docs3.loopring.io/en/)
 - [Loopring Exchange v1](https://v1.loopring.io/)
-- [API v1](https://docs.loopring.io/en/)
 - [FAQ v1](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
 - [Video: Swap & Add Liquidity to AMM](https://youtu.be/u_rzR0APENQ)
 - [Video Tutorial (for v1)](https://youtu.be/hqzGvwsIBtg)
@@ -59,21 +58,21 @@ A curated list of awesome resources related to Loopring.
 ### Rollup Data Related
 - [zkRollup Data Extraction Methods Overview](https://github.com/Loopring/protocols/wiki/Data-Extraction)
 - [Dune Analytics - Loopring](https://duneanalytics.com/loopring)
-- [The Graph - Loopring subgraph](https://thegraph.com/explorer/subgraph/protofire/loopring-3_1)
-- [Loopring Exchange Data API v1](https://github.com/Loopring/protocols/wiki/Loopring-Exchange-Data-API)
+- [The Graph - Loopring subgraph (v1)](https://thegraph.com/explorer/subgraph/protofire/loopring-3_1)
+- [Loopring Exchange Data API](https://github.com/Loopring/protocols/wiki/Loopring-Exchange-Data-API)
 - [MetaMask EdDSA Plugin](https://github.com/Loopring/eddsa-metamask-plugin)
 
 
 ### Liquidity Provision Details & Trading Bot Software
 - [Liquidity Mining for Exchange v2 (with AMM)](https://medium.com/loopring-protocol/loopring-to-launch-amm-liquidity-mining-on-layer-2-6cabbcf4801c)
-- [Introducing Liquidity Mining (v1)](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
+- [Orderbook Liquidity Mining](https://medium.com/loopring-protocol/loopring-exchange-liquidity-mining-competition-748917b277e6)
 - [Orderbook Liquidity Mining Example](https://alpha.defiprime.com/t/liquidity-mining-on-loopring-exchange/100)
 - [Update on Liquidity Mining (v1)](https://medium.com/loopring-protocol/update-on-loopring-exchange-liquidity-mining-campaigns-2e925e232576)
 - [Market Maker Rebates](https://medium.com/loopring-protocol/market-maker-rebates-new-fee-schedule-implemented-on-loopring-exchange-79b1df71434c)
 
 
 #### Trading Bot Software
-- [Hummingbot](https://github.com/Loopring/hummingbot) (our repo of the connector) + [Hummingbot official](https://docs.hummingbot.io/release-notes/0.32.0/#new-connector-loopring)
+- [Hummingbot](https://github.com/Loopring/hummingbot) (our repo of the connector) + [Hummingbot official](https://docs.hummingbot.io/exchange-connectors/loopring/)
 - [vnpy](https://github.com/Loopring/vnpy)
 - [NIOX Maker](https://www.maker.autonio.foundation/) + [instructions on integration](https://medium.com/loopring-protocol/autonio-integrates-loopring-exchange-into-niox-market-making-software-aa6f9197a9f1)
 - [MM bot](https://github.com/fxspinnaker/node_v01) (community contributor, fxspinnaker)
@@ -81,12 +80,8 @@ A curated list of awesome resources related to Loopring.
 
 ### LRC, Staking, Smart Contracts, etc.
 - [LRC Token Contract](https://etherscan.io/address/lrctoken.eth)
-- [LRC Utility post](https://medium.com/loopring-protocol/loopring-3-0-lrc-utility-model-d7da9ac79d3d)
-- [LRC Staking & Claiming dapp](https://staking.loopring.org/) + [open codebase](https://github.com/Loopring/lrc-staking-dapp)
-- [LRC Staking & Claiming manual instructions](https://medium.com/loopring-protocol/lrc-staking-and-claiming-instructions-91fd80e1af98)
-- [LRC Staking Pool](https://etherscan.io/address/stakingpool.lrctoken.eth)
-- [Protocol Fee Vault](https://etherscan.io/address/feevault.lrctoken.eth)
-- [Loopring.io Deposit Contract](https://etherscan.io/address/loopringio.eth)
+- [LRC v2](https://medium.com/loopring-protocol/lrc-tokenomics-v2-1e6fd99e9e9c)
+- [LRC v1 staking deprecation](https://medium.com/loopring-protocol/loopring-to-distribute-all-remaining-v1-staking-rewards-on-l2-8208ea5bdc48)
 
 
 ### Videos 
@@ -116,6 +111,7 @@ A curated list of awesome resources related to Loopring.
 - [GitHub](https://github.com/Loopring)
 - [Medium](https://medium.com/loopring-protocol)
 - [Discord](https://discord.gg/KkYccYp)
+- [Forum](https://community.loopring.io)
 - [Telegram](https://t.me/loopring_en)
 - [Reddit](https://www.reddit.com/r/loopringorg/)
 - [Monthly Update Newsletter](https://loopring.substack.com/)

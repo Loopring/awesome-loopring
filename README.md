@@ -13,14 +13,13 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Protocol](#loopring-protocol)
 - [Loopring Products](#Loopring-products)
 - [Tutorials](#Tutorials)
-- [Relayer](#relayer)
 - [Rollup Data Related](#Data-Related)
 - [Liquidity Mining](#Liquidity-Mining)
 - [Trading Bot Software](#Trading-Bot-Software)
-- [LRC, Staking, Smart Contracts, etc.](#LRC,-Staking,-Smart-Contracts,-etc.)
+- [LRC](#LRC)
 - [Videos](#Videos)
 - [Miscellaneous Articles](#Miscellaneous-Articles)
-- [Contact and Official Channels](#Contact-and-Official-Channels)
+- [Official Channels](#Contact-and-Official-Channels)
 
 
 ### Loopring Protocol
@@ -38,6 +37,8 @@ A curated list of awesome resources related to Loopring.
 - [Loopring Wallet](https://loopring.io)
 - [Loopring Exchange](https://exchange.loopring.io)
 - [Loopring API](https://docs3.loopring.io/en/)
+- [Loopring Fees - Wallet & Exchange](https://loopring.io/#/embed/wallet_fees_en)
+- [How Loopring Wallet Security Works](https://loopring.io/#/legal/walletdesign)
 
 
 ### Tutorials
@@ -45,11 +46,6 @@ A curated list of awesome resources related to Loopring.
 - [Video: How to Swap & Add Liquidity to L2 AMM](https://youtu.be/u_rzR0APENQ)
 - [FAQ: Loopring Exchange (v1)](https://medium.com/loopring-protocol/loopring-exchange-faq-196d6c40f6cf)
 - [Video: DeFi Dad Tutorial (v1)](https://youtu.be/hqzGvwsIBtg)
-
-
-### Product Info
-- [Loopring Fees - Wallet & Exchange](https://loopring.io/#/embed/wallet_fees_en)
-- [How Loopring Wallet Security Works](https://loopring.io/#/legal/walletdesign)
 
 
 ### Rollup Data Related
@@ -94,7 +90,7 @@ A curated list of awesome resources related to Loopring.
 - [How to Make Instant Payments in 1 sec with Loopring Pay, DeFi Dad/Bankless](https://youtu.be/mxn693L6_Ak)
 
 
-### Miscellaneous Articles
+### Miscellaneous Articles & Third Party Work
 - [On What Loopring Is and Isn't](https://medium.com/loopring-protocol/on-what-loopring-is-and-isnt-cdc81b96502c)
 - [Loopring Wallet Launch](https://medium.com/loopring-protocol/loopring-wallet-ethereum-unleashed-ac4173f940a5)
 - [Loopring L2 AMM Launch](https://medium.com/loopring-protocol/looprings-zkrollup-amm-is-live-2f8251cd0fcd)
@@ -102,15 +98,12 @@ A curated list of awesome resources related to Loopring.
 - [The Ultimate Non-Custodial Test](https://medium.com/loopring-protocol/we-take-the-ultimate-non-custodial-test-b5528fafbec2)
 - [zkRollup and Layer 1 Composability](https://medium.com/loopring-protocol/composability-between-ethereum-layer-1-and-2-10650b7411e5)
 - [zkSNARK Prover Optimizations](https://medium.com/loopring-protocol/zksnark-prover-optimizations-3e9a3e5578c0)
-
-
-### Miscellaneous Third Party Work
 - [Rails](https://rails.eth.link) - for gas-free transfers (product by DXdao)
 - [Rails codebase](https://github.com/luzzif/rails)
 - [JS library to interact with Loopring Relayer v1](https://github.com/luzzif/loopring-lightcone)
 
 
-### Contact and Official Channels
+### Official Channels
 - [Website](https://loopring.org/#/)
 - [Twitter](https://twitter.com/loopringorg)
 - [GitHub](https://github.com/Loopring)

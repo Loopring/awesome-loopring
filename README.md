@@ -39,6 +39,7 @@ A curated list of awesome resources related to Loopring.
 - [Loopring API](https://docs3.loopring.io/en/)
 - [Loopring Fees - Wallet & Exchange](https://loopring.io/#/embed/wallet_fees_en)
 - [How Loopring Wallet Security Works](https://loopring.io/#/legal/walletdesign)
+- [List of Supported Tokens and AMM pools](https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/deployment_mainnet_v3.6.md)
 
 
 ### Tutorials
